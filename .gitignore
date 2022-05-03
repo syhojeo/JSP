@@ -1,0 +1,10 @@
+.idea/
+.metadata/
+.settings/
+*.classpath
+*.project
+*.tern-project
+*MANIFEST.MF
+*.xml
+*.policy
+*.properties
