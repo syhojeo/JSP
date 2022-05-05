@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- dispatcher 를 통해 보내온 request 객체를 사용하기 -->
+	<!-- dispatcher 를 통해 보내온 request 객체를 사용하기 request.getAttribute() -->
 	
 <%
 	//response 를 통해 브라우저로 응답이 되지않는 이상 request객체가 살아있기 때문에
