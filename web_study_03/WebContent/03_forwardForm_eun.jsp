@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<%-- 액션태그 jsp:forward (dispatcher 없이 페이지 이동) -->
 <%
 	request.setAttribute("id", "kingdora@kings.com");
 	request.setAttribute("name", "김계동");
