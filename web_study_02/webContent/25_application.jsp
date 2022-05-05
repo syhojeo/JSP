@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- application 객체에 setAttribute를 통해 값 집어넣기 -->
+	<%-- application 객체에 setAttribute를 통해 값 집어넣기 -->
 	
 <div align="center">
 	1.서버 정보:<%=application.getServerInfo() %><br>
