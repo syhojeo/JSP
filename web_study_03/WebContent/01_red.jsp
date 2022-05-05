@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body bgcolor="red">
+	<%-- 액션테그 jsp:forward -->
 	이 파일은 01_red.jsp입니다.<br>
 	브라우저에 배경색이 빨간색으로 나타 날까요?<br>
 	노란색으로 나타 날까요?<hr>
