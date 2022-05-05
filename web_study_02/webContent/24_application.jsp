@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- application 객체 사용하기  -->
+	<%-- application 객체 사용하기  -->
 <%
 	//application 객체를 통해 어플리케이션의 각종 정보를 얻을 수 있다
 	String appPath=application.getContextPath();
