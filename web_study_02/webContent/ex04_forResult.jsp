@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- 문자열로 들어오는 request parameter 값 정수로 변경 -->
+	
 <!-- 함수 사용문단 (out.print) 와 같은 내장객체는 사용 불가능하다 (함수에서는 객체 생성이 안되기 때문 -->
 <%!
 	public int sum(int a) {
