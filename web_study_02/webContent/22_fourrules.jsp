@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- setAttribute, dispatcher 이용하여 다른페이지로 request 넘기기 -->
+	<%-- setAttribute, dispatcher 이용하여 다른페이지로 request 넘기기 -->
 	
 <%
 	String str1 = request.getParameter("num1"); //10
