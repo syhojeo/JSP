@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- Page, request, session, application 객체의 생명주기 알아보기 -->
+	
 	<!-- firstpage 가 종료 되었기 때문에 firstpage에서 설정한 "name" attribute는 존재하지 않는다 (null)-->
 	하나의 페이지 속성: <%=pageContext.getAttribute("name")%>
 	<!-- firstpage로 부터 dispatcher를 통해 request 객체를 받아서 사용가능하다 -->
