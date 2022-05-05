@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- reponse 객체를 통한 client 요청 응답 -->
+	
 <!-- response : 서버가 클라이언트한테 전달-->
 <%
 	//redirect를 서버가 클라이언트에게 리다이렉트를 요청하여 브라우저가 밑의 주소로 접속하도록 해준다
