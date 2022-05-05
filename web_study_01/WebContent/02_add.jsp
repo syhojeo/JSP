@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- JSP 파일에서 java코드 사용하기 (html에서의 java 코드 사용법) -->
+	<%-- JSP 파일에서 java코드 사용하기 (html에서의 java 코드 사용법) -->
 	
 	자바 명령어로 덧셈 연산<br>
 	scriptlet(스크립트릿)<br>
