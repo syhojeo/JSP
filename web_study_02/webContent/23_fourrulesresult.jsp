@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- dispatcher, request.getAttribute로 값 받기 -->
 <%
 	String num1 = request.getParameter("num1");
 	String num2 = request.getParameter("num2");
