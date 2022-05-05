@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- Page, request, session, application 객체의 생명주기 알아보기 -->
+	<%-- Page, request, session, application 객체의 생명주기 알아보기 -->
 	
 <%
 	pageContext.setAttribute("name", "page man");
