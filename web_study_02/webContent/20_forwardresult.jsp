@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- dispatcher 를 통해 보내온 request 객체를 사용하기 -->
+	
 <%
 	//response 를 통해 브라우저로 응답이 되지않는 이상 request객체가 살아있기 때문에
 	//19_forwardtest 에서 사용한 request 객체를 이 jsp 페이지에서도 사용할 수 있다
