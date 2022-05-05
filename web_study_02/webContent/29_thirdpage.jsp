@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- Page, request, session, application 객체의 생명주기 알아보기3 -->
+	
 	<!-- firstpage 에서 설정한 page 속성 존재하지 않음 -->
 	하나의 페이지 속성: <%=pageContext.getAttribute("name")%>
 	<!-- link를 통해 넘어왔고, link는 새로운 요청과 같기 때문에 새로운 request 객체가 생성되고 사용한다-->
