@@ -8,6 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<%-- jsp:param 을 이용하여 request 객체의 parameter 에 값 넣어주기 -->
 <%
 	request.setCharacterEncoding("utf-8");
 	String userID = request.getParameter("userId");
