@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- request 에서 보내준 url로 redirect 하기 -->
+	
 <%
 	response.sendRedirect(request.getParameter("url"));
 %>
