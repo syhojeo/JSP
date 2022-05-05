@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<!-- setAttribute 으로 request 객체에 값을 저장하고, dispatcher 사용하여 다른 JSP 페이지에 request 객체 전달하기 -->
+	
 <%
 	int age = Integer.parseInt(request.getParameter("age"));
 	
