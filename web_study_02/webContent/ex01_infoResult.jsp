@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+    <!-- request.getParameter를 이용해 request 값 활용하기 -->
+    
 입력한 정보는 다음과 같습니다.
 <%request.setCharacterEncoding("utf-8"); %>
 ID:<%=request.getParameter("id") %> <br>
