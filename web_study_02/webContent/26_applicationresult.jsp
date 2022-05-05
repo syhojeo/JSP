@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- application 객체의 Attribute 값 사용하기 -->
+	<%-- application 객체의 Attribute 값 사용하기 -->
 <div align="center">
 	<h2>application 예제</h2>
 	<hr>
