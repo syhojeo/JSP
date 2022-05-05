@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- reponse 객체를 통한 client 요청 응답 -->
+	<%-- reponse 객체를 통한 client 요청 응답 -->
 	
 <!-- response : 서버가 클라이언트한테 전달-->
 <%
