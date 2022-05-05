@@ -9,6 +9,7 @@
 <title>Insert title here</title>
 </head>
 <body bgcolor="pink">
+	<%-- jsp:param 을 통해 저장한 Parameter 사용하기 -->
 <h3>사용자로 로그인 성공</h3>
 <!--
 	param을 이용해 넘겨주었기 때문에 
