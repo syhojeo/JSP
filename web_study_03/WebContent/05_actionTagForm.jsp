@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<%-- form 을 통한 request -->
+	
 <form action="06_actionTagTest.jsp">
 	아이디:<input type="text" name="userId"><br>
 	암&nbsp;호:<input type="password" name="userPwd"><br>
