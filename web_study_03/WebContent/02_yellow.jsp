@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body bgcolor="yellow">
+    <%-- 액션태그를 통해 이동된 페이지 -->
+    
 <h3>forward 액션 태그</h3>
 <hr>
 이 페이지는 02_yellow.jsp입니다.<br>
