@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
+	<%-- jsp:forward를 통해 이동된 페이지에서의 request 객체 사용 -->
+	
 <%
 	String id = (String)request.getAttribute("id");
 	String name = (String)request.getAttribute("name");
