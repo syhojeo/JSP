@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- html form에서 보내온 request 객체를 이용하여 값 받아오기 -->
+	<%-- html form에서 보내온 request 객체를 이용하여 값 받아오기 -->
 	
 <h1>Request Example1</h1>	
 <%
