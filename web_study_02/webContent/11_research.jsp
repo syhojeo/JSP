@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- JSP 의 자바코드로 html에서 보내온 request 객체의 값 사용하기 -->
+	<%-- JSP 의 자바코드로 html에서 보내온 request 객체의 값 사용하기 -->
 	
 	<h2>설문 조사 결과</h2>
 	<%
