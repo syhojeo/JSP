@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<!-- request.getParameterValues(): 배열형태의 value값 받기 -->
+	<%-- request.getParameterValues(): 배열형태의 value값 받기 -->
 	
 입력하신 정보는 다음과 같습니다.<br>
 <%
